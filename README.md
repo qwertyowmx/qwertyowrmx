@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin and Python
-- 👯 I’m looking to collaborate on Kotlin opensource projects
+- 🌱 I’m currently learning Bash and Python
 - 📫 How to reach me: http://t.me/qwertyowrmx
